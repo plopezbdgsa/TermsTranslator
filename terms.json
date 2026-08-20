@@ -1,0 +1,6 @@
+[
+  { "es": "Descripción Impuesto", "en": "Tax Description" },
+  { "es": "Objetivo de la solicitud", "en": "Request Objective" },
+  { "es": "Moneda", "en": "Currency" },
+  { "es": "Entidad", "en": "Entity" }
+]

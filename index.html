@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4CS - Nuek Translator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h2>Terms Translator (Spanish Nuek ↔ English 4Cs)</h2>
+
+<div class="search-container">
+    <input type="text" id="searchInput" placeholder="Write a term in Spanish or English..." autocomplete="off">
+</div>
+
+<table>
+    <thead>
+    <tr>
+        <th>Spanish (Nuek)</th>
+        <th>English (4Cs)</th>
+    </tr>
+    </thead>
+    <tbody id="resultsBody">
+    </tbody>
+</table>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script src="app.js"></script>
+</body>
+</html>
