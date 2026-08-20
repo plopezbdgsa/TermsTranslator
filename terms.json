@@ -2,5 +2,17 @@
   { "es": "Descripción Impuesto", "en": "Tax Description" },
   { "es": "Objetivo de la solicitud", "en": "Request Objective" },
   { "es": "Moneda", "en": "Currency" },
-  { "es": "Entidad", "en": "Entity" }
+  { "es": "Entidad", "en": "Entity" },
+  { "es": "Código", "en": "Code" },
+  { "es": "Código Moneda", "en": "Currency Code" },
+  { "es": "Descripción Entidad", "en": "Entity Description" },
+  { "es": "País", "en": "Country Code" },
+  { "es": "Nombre del país", "en": "Country name" },
+  { "es": "Datos generales", "en": "General information" },
+  { "es": "Calculo diario intereses aplazado", "en": "Daily Deferred Interest Calculation" },
+  { "es": "Linea por defecto", "en": "Default Line" },
+  { "es": "Linea operaciones financiadas", "en": "Financed Operations Line" },
+  { "es": "Amortización Deuda", "en": "Debt Amortization" },
+  { "es": "Primero", "en": "First" },
+  { "es": "Segundo", "en": "Second" }
 ]
