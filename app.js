@@ -99,6 +99,7 @@ function escapeHTML(str) {
  */
 async function init() {
     const terms = await loadTerms();
+    console.log('Terms loaded: ', terms.length);
     fuse = new Fuse(terms, fuseOptions);
 
     renderResults([]);
