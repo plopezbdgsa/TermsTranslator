@@ -121,7 +121,7 @@
   { "es": "Calendario", "en": "Calendar" },
   { "es": "Grupo", "en": "Group" },
   { "es": "Fecha de liquidación", "en": "Settlement date" },
-  { "es": "Fecha de cargo", "en": "Direct debit" },
+  { "es": "Fecha de cargo", "en": "Direct debit date?" },
   { "es": "Fecha de vencimiento", "en": "Due date" },
   { "es": "Fecha de impago", "en": "Real due date" },
   { "es": "Producto", "en": "Product" },
